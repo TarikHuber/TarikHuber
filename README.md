@@ -8,3 +8,6 @@
 - 📫 How to reach me: :email: :iphone: :phone: :telephone_receiver: :fax: :mega: :mailbox:
 - ⚡ Fun fact: I'm the [```babo```](https://www.amazon.com/Mens-Babo-Bosnian-Premium-T-Shirt/dp/B084PVW898)
 
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=TarikHuber&count_private=true&show_icons=true" />
+
